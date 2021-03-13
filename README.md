@@ -7,7 +7,7 @@
     The fastest, most reliable, Redis-based distributed queue for Node. <br/>
     Carefully written for rock solid stability and atomicity.
   </p>
-  Read the <a href="https://docs.bullmq.io">documentation</a>
+  Read the <a href="https://docs.bullmq.io">documentation right now.</a>
   <br/>
   <br/>
   <p>
